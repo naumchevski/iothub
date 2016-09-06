@@ -1,0 +1,10 @@
+bin/
+pkg/
+
+src/github.com/
+src/golang.org/
+
+counters.json
+public-counters.json
+
+.vscode
