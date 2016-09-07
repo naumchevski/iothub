@@ -1,4 +1,7 @@
-# iothub
+# IoT Hub project
+IoT platform for controlling devices remotely using mobile application or web application
+
+![iothub image](doc/img/iothub.org.png)
 
 ## Resolved Issues
 * Send and receive data over WebSockets
